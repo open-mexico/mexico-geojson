@@ -24,7 +24,6 @@
 
 <br>
 
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><b>Tabla de contenido</b></summary>
   <ol>
@@ -39,13 +38,13 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Se busca tener los GeoJSON de todos los estados junto con todas sus colonias para su uso en analisis de datos principalmente.
+Se busca tener un banco de datos de los GeoJSON de todos los estados junto con todas sus colonias para su uso en analisis de datos.
+
+La necesidad de crear este repositorio llega al no encontrar estos datos de manera rápida y que furan confiables los datos.
 
 Los datos son sacadodos de los [datos publicos](https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico) de correos de México; estos se descargan en formato `.kml` y posteriormente son convertidos a GeoJSON.
 
@@ -58,14 +57,11 @@ Los datos son sacadodos de los [datos publicos](https://datos.gob.mx/busca/datas
 ---
 ## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Su uso se ha pensado principalmente para analisis de datos y para uso en conjunto con el proyecto [MexPost](https://github.com/macarthuror/mexpost)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- CONTRIBUTING -->
 ## Contribuir
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Si encuentras un error o deseas mejorar algún archivo por favor sientete libre de ralizar un `Pull Request`
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -74,8 +70,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE) para detalles
