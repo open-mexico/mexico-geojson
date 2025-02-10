@@ -28,7 +28,9 @@
 
 ## 🔑 Abstract
 
-Access the definitive GeoJSON repository of Mexico, containing the precise geographic boundaries of all Mexican states and their "colonias" (neighborhoods). Ideal for GIS Mexico, geospatial analysis, and digital mapping. Centralized and updated source of Mexican geographic data and Mexico territorial data, essential for developers, analysts, and GIS professionals. Includes detailed Mexico states maps and verified Mexico territorial limits from official sources (SEPOMEX/Correos de México). Facilitates the visualization of Mexico geospatial information and the development of applications with Mexico geodata. Download geographic data in GeoJSON format ready to integrate into your Mexico digital mapping and GIS Mexico analysis projects.
+This repository provides a comprehensive collection of GeoJSON files outlining the geographic boundaries of all Mexican states and their respective "colonias" (neighborhoods).  It serves as a centralized and reliable resource for Mexican geographic data, designed to facilitate access to territorial information for developers, data analysts, and Geographic Information System (GIS) professionals.
+
+The dataset includes complete coverage of Mexican states with detailed information on "colonias," all in GeoJSON format. Data is extracted from official sources at the Mexican Postal Service (SEPOMEX/Correos de México), processed from publicly available .kml format files, and converted to GeoJSON.  This resource is intended for applications in geospatial data analysis, map visualization, and the development of location-based services utilizing Mexican geographic information.
 
 ## 📍 Descripción
 
