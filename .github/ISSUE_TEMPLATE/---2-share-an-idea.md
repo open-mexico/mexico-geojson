@@ -1,6 +1,6 @@
 ---
 name: "\U0001f4a1 Idea"
-about: Something is not working as expected
+about: Help us to improve this project!
 title: '- 💡'
 labels: 'idea'
 assignees: 'macarthuror'
