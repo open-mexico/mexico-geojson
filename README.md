@@ -75,7 +75,15 @@ Los datos son sacadodos de los [datos publicos](https://datos.gob.mx/busca/datas
 
 ## Uso
 
-Su uso se ha pensado principalmente para analisis de datos y para uso en conjunto con el proyecto [MexPost](https://github.com/open-mexico/mexpost)
+Su uso se ha pensado principalmente para analisis de datos y para uso en conjunto con proyectos del ecosistema Open Mexico.
+
+## Proyectos recomendados
+
+- [go-mexpost](https://github.com/open-mexico/go-mexpost)
+  API para consultar codigos postales por nombre, codigo postal, coordenadas y busqueda inversa. Tambien permite obtener informacion adicional como el centro de la colonia, entre otros datos utiles para integraciones geoespaciales.
+
+- [sepomex-db-generator](https://github.com/open-mexico/sepomex-db-generator)
+  Proyecto donde se procesa y normaliza toda la informacion para generar la base de datos. Se construyen dos variantes: una basica con datos tratados de SEPOMEX y otra extendida con los datos de este repositorio (centros/coordenadas, bbox y poligono de colonia), pensada para alimentar go-mexpost.
 
 ## Contribuir
 
